@@ -1,0 +1,10 @@
+# root-level safety net
+node_modules/
+**/node_modules/
+.env
+**/.env
+*.pyc
+__pycache__/
+dist/
+build/
+.DS_Store

@@ -1,0 +1,15 @@
+# --- model.py worker (unchanged) ---
+pymongo
+mediapipe
+opencv-python-headless
+scipy
+numpy
+groq
+pandas
+
+# --- FastAPI server (app/) ---
+fastapi
+uvicorn[standard]
+motor
+python-dotenv
+python-multipart
